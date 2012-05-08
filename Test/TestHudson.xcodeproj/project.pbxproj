@@ -229,6 +229,7 @@
 /* Begin XCBuildConfiguration section */
 		2B665516152DB85800FFA350 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
@@ -254,6 +255,7 @@
 		};
 		2B665517152DB85800FFA350 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
