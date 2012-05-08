@@ -1,0 +1,8 @@
+//
+//  TestHudsonConfig.xcconfig
+//  TestHudson
+//
+//  Created by Yasir Ali on 5/8/12.
+//  Copyright (c) 2012 VeriQual. All rights reserved.
+//
+RUN_CLANG_STATIC_ANALYZER = YES;

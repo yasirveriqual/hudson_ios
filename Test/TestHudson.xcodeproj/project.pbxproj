@@ -17,6 +17,16 @@
 		2B665515152DB85800FFA350 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B665513152DB85800FFA350 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		2BC61FF7155125FE0022A9C3 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2BC61FF3155125FC0022A9C3 /* Tests.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 2BC61FCF155125FC0022A9C3;
+			remoteInfo = Tests;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		2B6654FA152DB85800FFA350 /* TestHudson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestHudson.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6654FE152DB85800FFA350 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -31,6 +41,8 @@
 		2B665510152DB85800FFA350 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		2B665511152DB85800FFA350 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		2B665514152DB85800FFA350 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		2BC61FF3155125FC0022A9C3 /* Tests.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Tests.xcodeproj; path = Tests/Tests.xcodeproj; sourceTree = SOURCE_ROOT; };
+		2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = TestHudsonConfig.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +62,7 @@
 		2B6654EF152DB85800FFA350 = {
 			isa = PBXGroup;
 			children = (
+				2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */,
 				2B665504152DB85800FFA350 /* TestHudson */,
 				2B6654FD152DB85800FFA350 /* Frameworks */,
 				2B6654FB152DB85800FFA350 /* Products */,
@@ -83,6 +96,7 @@
 				2B665511152DB85800FFA350 /* ViewController.m */,
 				2B665513152DB85800FFA350 /* ViewController.xib */,
 				2B665505152DB85800FFA350 /* Supporting Files */,
+				2BC61FF3155125FC0022A9C3 /* Tests.xcodeproj */,
 			);
 			path = TestHudson;
 			sourceTree = "<group>";
@@ -96,6 +110,14 @@
 				2B66550C152DB85800FFA350 /* TestHudson-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2BC61FF4155125FC0022A9C3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2BC61FF8155125FE0022A9C3 /* Tests.app */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,12 +159,28 @@
 			mainGroup = 2B6654EF152DB85800FFA350;
 			productRefGroup = 2B6654FB152DB85800FFA350 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 2BC61FF4155125FC0022A9C3 /* Products */;
+					ProjectRef = 2BC61FF3155125FC0022A9C3 /* Tests.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				2B6654F9152DB85800FFA350 /* TestHudson */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		2BC61FF8155125FE0022A9C3 /* Tests.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = Tests.app;
+			remoteRef = 2BC61FF7155125FE0022A9C3 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		2B6654F8152DB85800FFA350 /* Resources */ = {
@@ -236,6 +274,7 @@
 		};
 		2B665519152DB85800FFA350 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestHudson/TestHudson-Prefix.pch";
@@ -248,6 +287,7 @@
 		};
 		2B66551A152DB85800FFA350 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BD391FD15590A1B00164A84 /* TestHudsonConfig.xcconfig */;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestHudson/TestHudson-Prefix.pch";
