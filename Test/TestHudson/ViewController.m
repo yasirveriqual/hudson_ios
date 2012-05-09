@@ -14,9 +14,17 @@
 
 @implementation ViewController
 
+- (NSString *)returnName    {
+    NSString *xyz;
+    return xyz;
+}
+
+
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self returnName];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
