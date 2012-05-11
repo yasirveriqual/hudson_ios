@@ -10,4 +10,6 @@
 
 @interface ViewController : UIViewController
 
+- (NSString *)xyz;
+
 @end

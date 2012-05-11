@@ -7,6 +7,8 @@
 //
 
 #import "TestHudsonTests.h"
+#import "ViewController.h"
+
 
 @implementation TestHudsonTests
 
@@ -26,7 +28,10 @@
 
 - (void)testExample
 {
-    STFail(@"Unit tests are not implemented yet in TestHudsonTests");
+    ViewController *v = [[ViewController alloc] init];
+    if ([v xyz] == nil) {
+        STFail(@"xyz should not return null");
+    }
 }
 
 @end
