@@ -1,0 +1,262 @@
+TTestHudson
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/Info.plist" TestHudson/TestHudson-Info.plist
+cCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m"
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m"
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m"
+cLd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson" normal i386
+cGenerateDSYMFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM" "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson"
+cCompileXIB "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib"
+cCopyStringsFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/InfoPlist.strings" TestHudson/en.lproj/InfoPlist.strings
+cTouch "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F58F31E0000000000244490
+t1331229470
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F58F3200000000000353830
+t1331229472
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F58F3240000000000905E40
+t1331229476
+s9461312
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.h
+c000000004F7D80D80000000000000169
+t1333625048
+s361
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+c000000004F7D80D800000000000009C5
+t1333625048
+s2501
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch
+c000000004F7D80D80000000000000143
+t1333625048
+s323
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.h
+c000000004F7D80D800000000000000D4
+t1333625048
+s212
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+c000000004F7D80D80000000000000286
+t1333625048
+s646
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/InfoPlist.strings
+c000000004F7D83EC000000000000002E
+t1333625836
+s46
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib
+c000000004F7DB0900000000000001C98
+t1333637264
+s7320
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+c000000004F7D80D8000000000000014D
+t1333625048
+s333
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app
+t1336552045
+s136
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/Info.plist
+t1336552045
+s806
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/PkgInfo
+t1336552045
+s8
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/TestHudson.LinkFileList
+c000000004FAA2A6D00000000000001D6
+t1336552045
+s470
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/AppDelegate.plist
+t1336564324
+s276
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/ViewController.plist
+t1336564361
+s276
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/main.plist
+t1336564100
+s276
+
+NTestHudson/TestHudson-Info.plist
+c000000004F7F0AB2000000000000047B
+t1333725874
+s1147
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m"
+s358257804.585202
+e358257804.894745
+r1
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m0305968c945ab541^cb0ee58c945ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m0000000000000000^3369"Analyze TestHudson/AppDelegate.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/AppDelegate.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/AppDelegate.plist"36"C6DE58B7-764F-4511-A5B5-0C01BD24C737-
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m"
+s358257804.798577
+e358257805.016191
+r1
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.ma9a2cc8c945ab541^1426048d945ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m0000000000000000^3381"Analyze TestHudson/ViewController.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/ViewController.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/ViewController.plist"36"DEAD21B1-5600-4D9E-9658-39AA7DAD265D-
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m"
+s358257804.168315
+e358257804.583428
+r1
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m963f2b8c945ab541^685b958c945ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m0000000000000000^3341"Analyze TestHudson/main.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/main.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/StaticAnalyzer/normal/i386/main.plist"36"0F0E5C70-190F-4B81-A3F1-9B2B4A827412-
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa851fc8b945ab541^215a278c945ab541^---0#1#0#--18"Check dependencies36"F2449D45-900D-4A12-AC5E-572A618B3FC1-
+
+CCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358257804.167652
+e358257804.812253
+r1
+xCompileC
+xbuild/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m8a3e2b8c945ab541^9eefcf8c945ab541^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m0000000000000000^3371"CompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o TestHudson/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.d" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/AppDelegate.o"36"07231494-3A6F-4A8E-8B1E-0EFDAAA98786-
+
+CCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358257804.167660
+e358257804.804762
+r1
+xCompileC
+xbuild/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m213f2b8c945ab541^a629ce8c945ab541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m0000000000000000^3386"CompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o TestHudson/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.d" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/ViewController.o"36"BBF1359D-A13B-44B7-88F5-6122D01E08E8-
+
+CCompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358257804.167634
+e358257804.796651
+r1
+xCompileC
+xbuild/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m8a3e2b8c945ab541^fdf4cb8c945ab541^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m0000000000000000^3336"CompileC build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o TestHudson/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources/i386" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.d" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/main.o"36"DCABB2BC-9A2A-4222-BB2D-7776D0EE3D4A-
+
+CCompileXIB "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib"
+s358257806.126094
+e358257806.150925
+r1
+xCompileXIB
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib8d5f208e945ab541^b1a2268e945ab541^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib0000000000000000^981"CompileXIB TestHudson/en.lproj/ViewController.xib    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/ViewController.nib" "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"5F8DD582-B674-4F01-B035-D7F32B1C8008-
+
+CCopyStringsFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/InfoPlist.strings" TestHudson/en.lproj/InfoPlist.strings
+s358257806.126103
+e358257806.129147
+r1
+xCopyStringsFile
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj/InfoPlist.strings
+xTestHudson/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy TestHudson/en.lproj/InfoPlist.stringscd5c208e945ab541^410f218e945ab541^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile build/Debug-iphonesimulator/TestHudson.app/en.lproj/InfoPlist.strings TestHudson/en.lproj/InfoPlist.strings    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/en.lproj" -- TestHudson/en.lproj/InfoPlist.strings36"83BB3548-7995-4EE1-B0FE-860F5A5EAEC1-
+
+CGenerateDSYMFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM" "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson"
+s358257806.099734
+e358257806.116937
+r1
+xGenerateDSYMFile
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Generating /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM0ea2198e945ab541^ccee1d8e945ab541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM000000000080d041^755"GenerateDSYMFile build/Debug-iphonesimulator/TestHudson.app.dSYM build/Debug-iphonesimulator/TestHudson.app/TestHudson    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app.dSYM"36"4F3284D1-F6D4-47AF-8D41-824D036250AA-
+
+CLd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson" normal i386
+s358257804.818953
+e358257806.092703
+r1
+xLd
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson55c0d18c945ab541^95bb178e945ab541^---0#0#0#--1286"Ld build/Debug-iphonesimulator/TestHudson.app/TestHudson normal i386    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk "-L/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator" -filelist "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Debug-iphonesimulator/TestHudson.build/Objects-normal/i386/TestHudson.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/TestHudson"36"07CA0568-4B18-4C30-AE77-E9E1762065C1-
+
+CProcessInfoPlistFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/Info.plist" TestHudson/TestHudson-Info.plist
+s358244845.782079
+e358244845.786816
+r1
+xProcessInfoPlistFile
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/Info.plist
+xTestHudson/TestHudson-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process TestHudson/TestHudson-Info.plist8256c8ed615ab541^a46cc9ed615ab541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Info.plist0000000000000000^774"ProcessInfoPlistFile build/Debug-iphonesimulator/TestHudson.app/Info.plist TestHudson/TestHudson-Info.plist    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility TestHudson/TestHudson-Info.plist -genpkginfo "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app/Info.plist"36"B6A96E26-8843-47C6-AACE-E4BE249C5BBF-
+
+CTouch "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app"
+s358257806.159627
+e358257806.164691
+r1
+xTouch
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Touch /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.appd8f4288e945ab541^84292a8e945ab541^---0#0#0#--472"Touch build/Debug-iphonesimulator/TestHudson.app    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /usr/bin/touch -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Debug-iphonesimulator/TestHudson.app"36"32DD948F-E547-46D8-84DB-8F76F07C0B14-
+

@@ -1,0 +1,287 @@
+TTestHudson
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/TestHudson.app/ResourceRules.plist
+cProcessInfoPlistFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/Info.plist" TestHudson/TestHudson-Info.plist
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m"
+cCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m"
+cAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F58F30600000000000001A7
+t1331229446
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F58F30600000000000001E5
+t1331229446
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F58F30800000000003AE430
+t1331229448
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F58F308000000000052C940
+t1331229448
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F58F3080000000000798EA0
+t1331229448
+s7966368
+
+N/Users/yasir-ali/Library/MobileDevice/Provisioning Profiles/9E9E6665-BE93-4839-9C8D-2AF967FB98A8.mobileprovision
+c000000004F7592320000000000001C86
+t1333105202
+s7302
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.h
+c000000004F7D80D80000000000000169
+t1333625048
+s361
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+c000000004F7D80D800000000000009C5
+t1333625048
+s2501
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch
+c000000004F7D80D80000000000000143
+t1333625048
+s323
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.h
+c000000004F7D80D800000000000000D4
+t1333625048
+s212
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+c000000004F7D80D80000000000000286
+t1333625048
+s646
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/InfoPlist.strings
+c000000004F7D83EC000000000000002E
+t1333625836
+s46
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib
+c000000004F7DB0900000000000001C98
+t1333637264
+s7320
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+c000000004F7D80D8000000000000014D
+t1333625048
+s333
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app
+t1336555015
+s170
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app.dSYM
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/Info.plist
+t1336555015
+s1085
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/PkgInfo
+t1336555015
+s8
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/ResourceRules.plist
+t1336555015
+s485
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/TestHudson
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/embedded.mobileprovision
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/en.lproj/ViewController.nib
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/TestHudson.LinkFileList
+c000000004FAA360700000000000001CA
+t1336555015
+s458
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/AppDelegate.plist
+t1336558288
+s276
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/ViewController.plist
+t1336558427
+s276
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/main.plist
+t1336558151
+s276
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson.xcent
+t2
+s0
+
+N/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+NTestHudson/TestHudson-Info.plist
+c000000004F7F0AB2000000000000047B
+t1333725874
+s1147
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m"
+s358251088.305534
+e358251088.681269
+r0
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m83504e507a5ab541^3067ae507a5ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m0000000000000000^3234"Analyze TestHudson/AppDelegate.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/AppDelegate.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/AppDelegate.plist"36"150AB207-91E3-45A9-BD4A-E94C91045A4B-
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m"
+s358251227.127851
+e358251227.443474
+r0
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m30f420db7a5ab541^598571db7a5ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m0000000000000000^3246"Analyze TestHudson/ViewController.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/ViewController.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/ViewController.plist"36"6A8F54FC-1CEE-4408-A898-88BE21F9E740-
+
+CAnalyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m"
+s358250949.631072
+e358250951.830908
+r0
+xAnalyze
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+ocould not find clang line
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Analyze /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.mff3ea3c5795ab541^8db4d4c7795ab541^-26"could not find clang line-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m0000000000000000^3206"Analyze TestHudson/main.m    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -Xclang -analyzer-checker -Xclang osx.cocoa.experimental.SelfInit -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/main.d" --analyze "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/StaticAnalyzer/normal/armv7/main.plist"36"61A2191F-28C9-4E8D-A142-8CE200E654E0-
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesfb58d515815ab541^143e8316815ab541^---0#1#0#--18"Check dependencies36"A0E36924-BCBC-461C-B813-233FF665EF3C-
+
+CCodeSign "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app"
+r0
+
+CCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358252822.528090
+e358252822.671842
+r0
+xCompileC
+xbuild/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: unsupported option '--serialize-diagnostics'
+oclang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.dia'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.me36f8716815ab541^3123ac16815ab541^-345"clang: error: unsupported option '--serialize-diagnostics'clang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.dia'Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 11(21%IDEActivityLogMessage2@86"Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 1-358252822#18446744073709551615#0#-2#--29"Apple LLVM compiler 3.1 Error--0#0#0#-19%DVTDocumentLocation3@104"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m0000000000000000^3415"CompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o TestHudson/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.d" --serialize-diagnostics "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.dia" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/AppDelegate.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/AppDelegate.o"36"98A67693-9C55-48F9-BFC1-A8FD79B96BA2-
+
+CCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358252822.528101
+e358252822.671850
+r0
+xCompileC
+xbuild/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: unsupported option '--serialize-diagnostics'
+oclang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.dia'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.mf7728716815ab541^3716ac16815ab541^-348"clang: error: unsupported option '--serialize-diagnostics'clang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.dia'Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 11(21%IDEActivityLogMessage2@86"Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 1-358252822#18446744073709551615#0#-2#--29"Apple LLVM compiler 3.1 Error--0#0#0#-19%DVTDocumentLocation3@107"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m0000000000000000^3433"CompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o TestHudson/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.d" --serialize-diagnostics "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.dia" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/ViewController.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/ViewController.o"36"AD63A0F0-1751-4B7C-BE1A-602CA6040D62-
+
+CCompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s358252822.528083
+e358252822.671866
+r0
+xCompileC
+xbuild/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: error: unsupported option '--serialize-diagnostics'
+oclang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.dia'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m69708716815ab541^7427ac16815ab541^-338"clang: error: unsupported option '--serialize-diagnostics'clang: error: no such file or directory: '/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.dia'Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 11(21%IDEActivityLogMessage2@86"Command /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer failed with exit code 1-358252822#18446744073709551615#0#-2#--29"Apple LLVM compiler 3.1 Error--0#0#0#-19%DVTDocumentLocation3@97"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m0000000000000000^3373"CompileC build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o TestHudson/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    /Projects/HudsonSlave/checker-265/libexec/ccc-analyzer -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-generated-files.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-own-target-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-all-target-headers.hmap" -iquote "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson-project-headers.hmap" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/include" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources/armv7" "-I/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/DerivedSources" "-F/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos" -DNS_BLOCK_ASSERTIONS=1 -include "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.dia" -c "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/main.m" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/Objects-normal/armv7/main.o"36"D98B46D8-C748-4F79-AA86-B3BE35159D0A-
+
+CCompileXIB "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/en.lproj/ViewController.xib"
+r0
+
+CCopyStringsFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/en.lproj/InfoPlist.strings" TestHudson/en.lproj/InfoPlist.strings
+r0
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/TestHudson.app/ResourceRules.plist
+s358247815.753747
+e358247815.759621
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/TestHudson.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Release-iphoneos/TestHudson.app/ResourceRules.plist1c27c1876d5ab541^1d77c2876d5ab541^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/ResourceRules.plist000000000080d041^940"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist build/Release-iphoneos/TestHudson.app/ResourceRules.plist    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app"36"521758D6-297C-428A-84F1-EDCDEBAFCEC4-
+
+CGenerateDSYMFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app.dSYM" "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/TestHudson"
+r0
+
+CLd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/TestHudson" normal armv7
+r0
+
+CProcessInfoPlistFile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/Info.plist" TestHudson/TestHudson-Info.plist
+s358247815.753749
+e358247815.759235
+r1
+xProcessInfoPlistFile
+x/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/Info.plist
+xTestHudson/TestHudson-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process TestHudson/TestHudson-Info.plist8526c1876d5ab541^b35cc2876d5ab541^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Volumes/Data%20HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/TestHudson/TestHudson-Info.plist0000000000000000^886"ProcessInfoPlistFile build/Release-iphoneos/TestHudson.app/Info.plist TestHudson/TestHudson-Info.plist    cd "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin"    builtin-infoPlistUtility TestHudson/TestHudson-Info.plist -genpkginfo "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/ResourceRules.plist" -o "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/Info.plist"36"F6CDA055-F0F2-4D4E-9B03-0A7264977B90-
+
+CProcessProductPackaging "/Users/yasir-ali/Library/MobileDevice/Provisioning Profiles/9E9E6665-BE93-4839-9C8D-2AF967FB98A8.mobileprovision" "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/TestHudson.build/Release-iphoneos/TestHudson.build/TestHudson.xcent"
+r0
+
+CTouch "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app"
+r0
+
+CValidate "/Volumes/Data HD/Projects/iOS/Learning/Hudson/hudson_ios/Test/build/Release-iphoneos/TestHudson.app"
+r0
+
