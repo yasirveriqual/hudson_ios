@@ -6,6 +6,7 @@ build/*
 *.perspective
 *.perspectivev3
 *~.nib
+test-reports/*
 
 #ignore private workspace stuff added by Xcode4
 xcuserdata
